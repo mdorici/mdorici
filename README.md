@@ -30,6 +30,9 @@
  
 </div>
 
+<!-- Badges template - https://github.com/badges/shields -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <p align="left">
   <a href="https://github.com/mdorici?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mdorici?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me"/></a>
